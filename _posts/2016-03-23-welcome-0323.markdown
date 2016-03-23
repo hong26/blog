@@ -1,0 +1,11 @@
+---
+layout: post
+title: "测试文章"
+categories: hong
+---
+<p><pre>  第二篇文章发布啦!!!</pre><p>
+<p>测试测试测试</p>
+<!-- {{ page.date | date_to_string }}:添加日期 -->
+<p style='float:right'>{{ page.date | date_to_string }}<p>
+<!-- <pre>这个标签可以使元素变成文本格式,不会忽略空格! -->
+
